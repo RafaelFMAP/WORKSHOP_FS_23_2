@@ -2,6 +2,7 @@
 
 Para fins de teste, disponibilizei o código feito no desenvolvimento do projeto.
 O arquivo é um jupyter notebook, recomendo utilizar o Google Colab para rodar o projeto
+Link do Colab: https://colab.research.google.com/drive/1cgBKmJ_0AsxzfZ42KMLuf8fAVTKGPw6d?usp=sharing
 
 As perguntas são hipotetícas que poderiam ser usadas para análisar e transformar em dados para preenchimento da tabela
 A base de dados utilizada foi: https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-education-around-the-world
