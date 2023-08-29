@@ -1,0 +1,65 @@
+1. Quais são seus dados demográficos?
+* Idade:
+* Sexo:
+* Raça:
+* Etnia:
+* Renda:
+* Local de residência:
+
+2. Qual é seu nível educacional?
+* Sem escolaridade:
+* Ensino fundamental incompleto:
+* Ensino fundamental completo:
+* Ensino médio incompleto:
+* Ensino médio completo:
+* Ensino superior incompleto:
+* Ensino superior completo:
+
+3. Qual é o seu grau de escolaridade desejado?
+* Sem escolaridade:
+* Ensino fundamental incompleto:
+* Ensino fundamental completo:
+* Ensino médio incompleto:
+* Ensino médio completo:
+* Ensino superior incompleto:
+* Ensino superior completo:
+
+4. Quais são as principais barreiras que você enfrentou para concluir sua escolaridade?
+* Falta de recursos financeiros:
+* Falta de acesso à educação de qualidade:
+* Discriminação:
+* Outros:
+
+5. Você acha que a desigualdade educacional é um problema grave no seu país?
+* Sim:
+* Não:
+* Não sei:
+
+6. Quais são as consequências da desigualdade educacional no seu país?
+* Menor mobilidade social:
+* Maior desigualdade econômica:
+* Prejuízo para a economia:
+* Maior vulnerabilidade social:
+
+7. Quem são os principais afetados pela desigualdade educacional no seu país?
+* Pobres:
+* Negros e indígenas:
+* Pessoas do interior:
+* Pessoas com deficiência:
+
+8. Quais são as causas da desigualdade educacional no seu país?
+* Pobreza:
+* Racismo:
+* Desigualdade de oportunidades:
+* Falta de investimento na educação:
+
+9. Quais são as políticas públicas que podem contribuir para reduzir a desigualdade educacional no seu país?
+* Expansão do acesso à educação:
+* Melhoria da qualidade da educação:
+* Políticas de combate à pobreza:
+* Políticas de combate ao racismo:
+
+10. Você acha que o seu país está fazendo o suficiente para reduzir a desigualdade educacional?
+* Sim:
+* Não:
+* Não sei:
